@@ -2,10 +2,10 @@
 ![Picture of mindmap](https://raw.githubusercontent.com/SpicyRicecaker/learn-rust-oop/master/map.png)
 
 ## Managing state using rust types
-![Picture of mindmap](https://raw.githubusercontent.com/SpicyRicecaker/learn-rust-oop/master/pending.png)
+![Picture of mindmap](https://raw.githubusercontent.com/SpicyRicecaker/learn-rust-oop/master/pending.jpg)
 
 ## Rust types can get really complex
-![Picture of mindmap](https://raw.githubusercontent.com/SpicyRicecaker/learn-rust-oop/master/problems.png)
+![Picture of mindmap](https://raw.githubusercontent.com/SpicyRicecaker/learn-rust-oop/master/problems.jpg)
 
 ## TL;DR 
 Probably use oop for flexibility and convenience in loops, at least until a rust game dev book comes out
