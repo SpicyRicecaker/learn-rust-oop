@@ -1,3 +1,5 @@
+mod better;
+
 pub struct Post {
     state: Option<Box<dyn State>>,
     content: String,
